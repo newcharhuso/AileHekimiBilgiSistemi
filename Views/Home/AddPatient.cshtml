@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Yeni Hasta Ekle";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4">@ViewData["Title"]</h1>
+    <form asp-action="AddPatient" method="post">
+        <div class="form-group">
+            <label for="Name">Adı:</label>
+            <input type="text" class="form-control" name="Name" id="Name" required>
+        </div>
+        <div class="form-group">
+            <label for="Age">Yaş:</label>
+            <input type="number" class="form-control" name="Age" id="Age" required>
+        </div>
+        <div class="form-group">
+            <label for="Contact">İletişim:</label>
+            <input type="text" class="form-control" name="Contact" id="Contact" required>
+        </div>
+        <div class="form-group">
+            <label for="PastIllnesses">Geçmiş Hastalıklar:</label>
+            <textarea class="form-control" name="PastIllnesses" id="PastIllnesses"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="PrescribedMedications">Yazılan İlaçlar:</label>
+            <textarea class="form-control" name="PrescribedMedications" id="PrescribedMedications"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="Notes">Notlar:</label>
+            <textarea class="form-control" name="Notes" id="Notes"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </form>
+</div>

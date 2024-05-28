@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/obj/Debug/net8.0/scopedcss/projectbundle/AileHekimiHastaTakibi.bundle.scp.css",
+      "PackagePath": "staticwebassets/AileHekimiHastaTakibi.bundle.scp.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/enums.js",
+      "PackagePath": "staticwebassets/lib/popperjs/enums.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/enums.js.map",
+      "PackagePath": "staticwebassets/lib/popperjs/enums.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/enums.min.js",
+      "PackagePath": "staticwebassets/lib/popperjs/enums.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/enums.min.js.flow",
+      "PackagePath": "staticwebassets/lib/popperjs/enums.min.js.flow"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/enums.min.js.map",
+      "PackagePath": "staticwebassets/lib/popperjs/enums.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-base.js",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-base.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-base.js.map",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-base.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-base.min.js",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-base.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-base.min.js.flow",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-base.min.js.flow"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-base.min.js.map",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-base.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-lite.js",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-lite.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-lite.js.map",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-lite.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-lite.min.js",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-lite.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-lite.min.js.flow",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-lite.min.js.flow"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper-lite.min.js.map",
+      "PackagePath": "staticwebassets/lib/popperjs/popper-lite.min.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper.js",
+      "PackagePath": "staticwebassets/lib/popperjs/popper.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper.js.map",
+      "PackagePath": "staticwebassets/lib/popperjs/popper.js.map"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper.min.js",
+      "PackagePath": "staticwebassets/lib/popperjs/popper.min.js"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper.min.js.flow",
+      "PackagePath": "staticwebassets/lib/popperjs/popper.min.js.flow"
+    },
+    {
+      "Id": "/home/husnu/projects/AileHekimiHastaTakibi/wwwroot/lib/popperjs/popper.min.js.map",
+      "PackagePath": "staticwebassets/lib/popperjs/popper.min.js.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AileHekimiHastaTakibi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.AileHekimiHastaTakibi.props",
+      "PackagePath": "build\\AileHekimiHastaTakibi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AileHekimiHastaTakibi.props",
+      "PackagePath": "buildMultiTargeting\\AileHekimiHastaTakibi.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AileHekimiHastaTakibi.props",
+      "PackagePath": "buildTransitive\\AileHekimiHastaTakibi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Aile Hekimi Hasta Takip Sistemi</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/">Aile Hekimi</a>
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/Home/AddPatient">Yeni Hasta Ekle</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Home/PatientList">Hasta Listesi</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <script src="~/lib/jquery/jquery.slim.min.js"></script>
+    <script src="~/lib/popperjs/popper.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+@model AileHekimiHastaTakibi.Models.Patient
+
+@{
+    ViewData["Title"] = "Hasta Detayları";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4">@ViewData["Title"]</h1>
+    <div class="card">
+        <div class="card-header">
+            Hasta Bilgileri
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text"><strong>ID:</strong> @Model.Id</p>
+            <p class="card-text"><strong>Yaş:</strong> @Model.Age</p>
+            <p class="card-text"><strong>İletişim:</strong> @Model.Contact</p>
+            <p class="card-text"><strong>Geçmiş Hastalıklar:</strong> @Model.PastIllnesses</p>
+            <p class="card-text"><strong>Yazılan İlaçlar:</strong> @Model.PrescribedMedications</p>
+            <p class="card-text"><strong>Notlar:</strong> @Model.Notes</p>
+            <a href="/Home/PatientList" class="btn btn-primary">Geri Dön</a>
+        </div>
+    </div>
+</div>

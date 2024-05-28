@@ -1,0 +1,33 @@
+@model IEnumerable<AileHekimiHastaTakibi.Models.Patient>
+
+@{
+    ViewData["Title"] = "Hasta Listesi";
+    Layout = "_Layout";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4">@ViewData["Title"]</h1>
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Adı</th>
+                <th scope="col">Yaş</th>
+                <th scope="col">İletişim</th>
+                <th scope="col">Detaylar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var patient in Model)
+            {
+                <tr>
+                    <td>@patient.Id</td>
+                    <td>@patient.Name</td>
+                    <td>@patient.Age</td>
+                    <td>@patient.Contact</td>
+                    <td><a class="btn btn-info" href="/Home/PatientDetails/@patient.Id">Detaylar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
